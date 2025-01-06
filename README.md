@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>python practice</b>
-  - [Praciting in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting in Python](https://github.com/Aayush-Rouniyar/react_projects)
 
 
 
