@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>frontend practice</b>
+  - [Praciting in react](https://github.com/Aayush-Rouniyar/react_projects)
 - <b>python practice</b>
-  - [Praciting in Python](https://github.com/Aayush-Rouniyar/react_projects)
+  - [Praciting in Python](https://github.com/Aayush-Rouniyar/python_projects)
 
 
 
