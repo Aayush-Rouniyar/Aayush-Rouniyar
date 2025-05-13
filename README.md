@@ -13,18 +13,16 @@
 
 <a href="mailto:aayushrouniyar666@gmail.com">
   <img align="left" alt="Aayush Rouniyar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />
-</a><br clear="left" />
+</a>&nbsp;
 
 
 <a href="https://www.linkedin.com/in/aayush-rouniyar/">
   <img align="left" alt="Aayush Rouniyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><br clear="left" />
-
+</a>&nbsp;
 
 <a href="https://www.instagram.com/_ronn_____y/">
   <img align="left" alt="Aayush Rouniyar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br clear="left" />
-
+</a>&nbsp;
 
 <br>
 
