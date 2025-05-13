@@ -9,16 +9,23 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
-<img align="left" alt="Aayush Rouniyar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" /><p>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="Aayush Rouniyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<p>
-[<img align="left" alt="Aayush Rouniyar| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="mailto:aayushrouniyar666@gmail.com">
+  <img align="left" alt="Aayush Rouniyar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />
+</a><br clear="left" />
 
 
-[instagram]:https://www.instagram.com/_ronn_____y/
-[linkedin]:https://www.linkedin.com/in/aayush-rouniyar/
-[E-mail]:aayushrouniyar666@gmail.com
+<a href="https://www.linkedin.com/in/aayush-rouniyar/">
+  <img align="left" alt="Aayush Rouniyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><br clear="left" />
+
+
+<a href="https://www.instagram.com/_ronn_____y/">
+  <img align="left" alt="Aayush Rouniyar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><br clear="left" />
+
+
 <br>
 
 
@@ -26,6 +33,6 @@
 
 🌱 I’m currently learning  frontend development along with some backend tools, such as HTML,CSS,REACT,ML,PYTHON..  
 </h4>
-![](https://komarev.com/ghpvc/?username=Aayush-Rouniyar&color=green)
+
 
 
