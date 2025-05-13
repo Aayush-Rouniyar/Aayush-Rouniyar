@@ -26,6 +26,6 @@
 
 🌱 I’m currently learning  frontend development along with some backend tools, such as HTML,CSS,REACT,ML,PYTHON..  
 </h4>
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+![](https://komarev.com/ghpvc/?username=Aayush-Rouniyar&color=green)
 
 
