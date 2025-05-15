@@ -3,7 +3,7 @@
 </head>
 <h1>Hi👋, I'm Ronny!</h1><p><h3> An undergraduate Electronics Engineer in Pulchowk Campus ,Kathmandu. <br/><a href="https://github.com/aayush-rouniyar">Learner</a><a href="https://www.linkedin.com/in/aayush-rouniyar/"></a></h3>
 
-<h2>All of my Projects are available here at :https://my-portfolio-aayush-rouniyars-projects.vercel.app/</h2>
+<h3>All of my Projects are available here at :https://my-portfolio-aayush-rouniyars-projects.vercel.app/</h3>
 
 <h2>🤳 Connect with me:</h2>
 
@@ -20,12 +20,8 @@
   <img align="left" alt="Aayush Rouniyar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;
 
-<br>
-
-
 <h4>
-
-🌱 I’m currently learning  frontend development along with some backend tools, such as HTML,CSS,REACT,ML,PYTHON..  
+🌱 I’m currently learning automation and AI
 </h4>
 
 
