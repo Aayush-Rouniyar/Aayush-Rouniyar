@@ -1,19 +1,15 @@
-<h1>Hi, I'm Aayush!</h1><p><h3> An undergraduate Electronics Engineer in Pulchowk Campus ,Kathmandu. <br/><a href="https://github.com/aayush-rouniyar">Programmer</a><a href="https://www.linkedin.com/in/aayush-rouniyar/"></a></h3>
+<head>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<h1>Hi👋, I'm Ronny!</h1><p><h3> An undergraduate Electronics Engineer in Pulchowk Campus ,Kathmandu. <br/><a href="https://github.com/aayush-rouniyar">Learner</a><a href="https://www.linkedin.com/in/aayush-rouniyar/"></a></h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>frontend practice</b>
-  - [Praciting in react](https://github.com/Aayush-Rouniyar/react_projects)
-- <b>python practice</b>
-  - [Praciting in Python](https://github.com/Aayush-Rouniyar/python_projects)
-
-
+<h2>All of my Projects are available here at :https://my-portfolio-aayush-rouniyars-projects.vercel.app/</h2>
 
 <h2>🤳 Connect with me:</h2>
 
 <a href="mailto:aayushrouniyar666@gmail.com">
-  <img align="left" alt="Aayush Rouniyar | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />
-</a>&nbsp;
+<i class="fas fa-envelope" style="color: #ababab; font-size: 22px;"></i>
+
 
 
 <a href="https://www.linkedin.com/in/aayush-rouniyar/">
