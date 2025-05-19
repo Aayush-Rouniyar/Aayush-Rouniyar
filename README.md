@@ -9,7 +9,7 @@
 </p>
 
 <h4>All of my Projects are available here at :https://my-portfolio-aayush-rouniyars-projects.vercel.app/</h4>
-<h3>
+<h3 align="center">
 CODE. DEBUG. REPEAT.
 </h3>
 
