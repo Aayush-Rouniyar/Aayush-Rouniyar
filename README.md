@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/_ronn_____y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 </p>
 
-<h4 align="center">All of my Projects are available here </h4>
+<!-- <h4 align="center">All of my Projects are available here </h4> -->
 <h3 align="center">
 CODE. DEBUG. REPEAT.
 </h3>
